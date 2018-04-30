@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomerMaintenance</name>
+    </assembly>
+    <members>
+        <member name="M:CustomerMaintenance.Customer.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Populate Customer strings via overloaded method
+            </summary>
+            <param name="firstName"></param>
+            <param name="lastName"></param>
+            <param name="email"></param>
+        </member>
+        <member name="P:CustomerMaintenance.Customer.FirstName">
+            <summary>
+            Get First Name
+            </summary>
+        </member>
+        <member name="P:CustomerMaintenance.Customer.LastName">
+            <summary>
+            Get Last Name
+            </summary>
+        </member>
+        <member name="P:CustomerMaintenance.Customer.Email">
+            <summary>
+            Get E-mail
+            </summary>
+        </member>
+        <member name="M:CustomerMaintenance.Customer.GetDisplayText">
+            <summary>
+            Generate display
+            </summary>
+            <returns>Returns concant information</returns>
+        </member>
+        <member name="F:CustomerMaintenance.frmAddCustomer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CustomerMaintenance.frmAddCustomer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CustomerMaintenance.frmAddCustomer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:CustomerMaintenance.frmCustomers.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:CustomerMaintenance.frmCustomers.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:CustomerMaintenance.frmCustomers.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:CustomerMaintenance.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:CustomerMaintenance.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:CustomerMaintenance.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:CustomerMaintenance.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,57 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.XML
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\ValidationLib.dll
+D:\School Stuff\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\ValidationLib.pdb
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.XML
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\ValidationLib.dll
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\bin\Debug\ValidationLib.pdb
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csprojResolveAssemblyReference.cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CopyComplete
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+D:\Personal\Documents\Classes\!CIS131\Chapter 16\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
