@@ -1,2 +1,2 @@
 # CustomerMaintence
-Sample C# Program with database access
+Sample C# Program using a flat file
